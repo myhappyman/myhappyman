@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h4>🔧 Tech Stack ⚙️</h4>
+  <h4>✨ Tech Stack ✨</h4>
 </div>
 
 <div align="center">
@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-  <h4>✨ Cowork Tools ✨</h4>
+  <h4>🔧 Cowork Tools ⚙️</h4>
 </div>
 
 <div align="center">
